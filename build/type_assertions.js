@@ -1,0 +1,10 @@
+"use strict";
+let statusAtual = 25.59;
+let mudaStatus = 0;
+mudaStatus = statusAtual;
+mudaStatus = statusAtual;
+let query = 'Pizza';
+let searchTerm = query;
+console.log(searchTerm);
+console.log(typeof searchTerm);
+console.log(typeof query);
